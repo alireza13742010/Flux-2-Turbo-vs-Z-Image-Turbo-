@@ -1,4 +1,4 @@
-# Flux-2-Turbo-vs-Z-Image-Turbo-
+
 # Flux 2 vs Z-Image Turbo: Architecture & Results Compared
 
 Inside Flux 2 and Z-Image Turbo — comparing how they're built and what they produce.
